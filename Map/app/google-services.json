@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1046311372876",
+    "firebase_url": "https://life-save.firebaseio.com",
+    "project_id": "life-save",
+    "storage_bucket": "life-save.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046311372876:android:08d920394db48765",
+        "android_client_info": {
+          "package_name": "com.example.fusion.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046311372876-6pfl8mqo2bl2aioj3vjacosrjgmuvpel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCUDmYzruuGgq-TxnyAaP5FLPTXFS4R4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046311372876:android:13e695f7d3aa8c47",
+        "android_client_info": {
+          "package_name": "com.example.fusion.lifesafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046311372876-6pfl8mqo2bl2aioj3vjacosrjgmuvpel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCUDmYzruuGgq-TxnyAaP5FLPTXFS4R4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

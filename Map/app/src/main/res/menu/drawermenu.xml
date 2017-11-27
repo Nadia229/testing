@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tips" android:title="Health tips"  android:icon="@drawable/ic_person_add_black_24dp"/>
+    <item android:id="@+id/resourse" android:title="upcoming resourse" android:icon="@drawable/ic_camera_black_24dp"/>
+    <item android:id="@+id/Log" android:title="Log out" android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+    <item android:id="@+id/About" android:title="About" android:icon="@drawable/ic_content_copy_black_24dp"/>
+
+</menu>

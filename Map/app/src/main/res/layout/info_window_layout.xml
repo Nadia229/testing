@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="200dp"
+    android:layout_height="80dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="10000000dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:text="make a call"
+            android:textSize="10dp"
+            android:layout_height="50dp"
+            android:id="@+id/button2"
+            android:layout_width="64dp"/>
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="190dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="1dp"
+            android:id="@+id/textView3"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="190dp"
+            android:layout_height="20dp"
+            android:hint="textview"
+            android:layout_marginStart="-190dp"
+            android:layout_marginTop="20dp"
+
+
+            android:id="@+id/textView26" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
